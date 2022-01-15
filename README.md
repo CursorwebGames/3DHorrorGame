@@ -3,6 +3,9 @@ Move through the rooms as you collect items and try to escape the haunted baseme
 
 How did you get in there? Great question!
 
+## Update
+**Development will stop as I work on better things**
+
 ## Spec
 **Unity Version**: 2020.3.6f1
 
